@@ -9,10 +9,18 @@ Summary: RAS Contact Information
 
 Contact Us
 ----------
-Grant Carr - Mechanical/Electrical/General Club Information
-grant.carr@utdallas.edu
-Michael Aldridge- Electrical/Code
-michael.aldridge@utdallas.edu
+Grant Carr - President
+
+* Mechanical/Electrical/General Club Information
+* grant.carr[at]utdallas.edu
+
+
+Michael Aldridge - Vice President
+
+* Electrical/Code
+* michael.aldridge[at]utdallas.edu
+
 
 Martin Mathews- Consulting Guru
-phy1729@utdallas.edu
+
+* phy1729[at]utdallas.edu

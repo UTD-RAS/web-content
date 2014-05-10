@@ -1,12 +1,5 @@
 Title: RAS Home
-Date: 2017-5-05 10:20
-Modified: 2014-12-05 19:30
-Category: Home
-Tags: Robots, Home, UTD, RAS
-Slug: home
-Authors: BackIsJack
-Summary: RAS Homes
-URL:
+URL:/
 save_as: index.html
 
 Welcome to Robotics and Automation Society of UTD!

@@ -6,7 +6,7 @@ Tags: Aquatic, Unmaned, Vehicle, AUV, Sub
 Slug: auv
 Authors: BackIsJack
 Summary: Auv information
-
+status: hidden
 
 What is AUV?
 -------------
