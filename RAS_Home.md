@@ -1,11 +1,13 @@
 Title: RAS Home
-Date: 2014-5-05 10:20
+Date: 2017-5-05 10:20
 Modified: 2014-12-05 19:30
 Category: Home
 Tags: Robots, Home, UTD, RAS
 Slug: home
 Authors: BackIsJack
 Summary: RAS Homes
+URL:
+save_as: index.html
 
 Welcome to Robotics and Automation Society of UTD!
 -------------------------------------------------
@@ -20,8 +22,8 @@ Current Projects
 ----------------
 We have several projects that we are currently involved with:
 
-	*Autonomous Underwater Vehicle Team
-		..* The AUV team is an exciting new addition to the Robotics and Automation Society, you can read more about them on the AUV page!
-	*Fishwick -Predator prey linear differential thing modle
+* Autonomous Underwater Vehicle Team
+    * The AUV team is an exciting new addition to the Robotics and Automation Society, you can read more about them [here](|filename|RAS_AUV.md)!
+* Dr. Fishwick's Projects - Physical model of the preditor prey differential equation model.
 
 
