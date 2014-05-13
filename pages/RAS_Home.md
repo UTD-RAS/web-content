@@ -1,6 +1,6 @@
 Title: RAS Home
-URL:
 save_as: index.html
+status: hidden
 
 Welcome to Robotics and Automation Society of UTD!
 -------------------------------------------------
