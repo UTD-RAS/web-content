@@ -11,7 +11,7 @@ How to get involved!
 --------------------
 Come to the UTD RAS Meetings! 
 -----------------------------
-Meetings happen every Wednesday at 8:30 PM in ECS South 2.305.
+Meetings happen every Wednesday at 8:00 PM in ECS South 2.312.
 
 
 Join our community!
